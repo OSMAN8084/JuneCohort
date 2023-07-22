@@ -1,0 +1,16 @@
+div{
+    background-color: rgb(rgb(180, 45, 119))
+    border: 1px solid green;
+    width:50%;
+    margin:10px
+}
+
+main{
+    border:1px solid black;
+    background-color: grey;
+    width:50%;
+}
+
+#first-div{
+    background-color: green;
+}
