@@ -1,0 +1,13 @@
+h1{
+    color: green;
+}
+
+body{
+    color: blueviolet;
+    background-color: beige;
+    border: 1px dashed black;
+}
+li{
+    background-color: aquamarine;
+}
+
