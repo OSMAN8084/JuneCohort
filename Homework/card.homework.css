@@ -47,6 +47,7 @@ nav ol li {
     display: inline-flex;
     padding: 30px 30px 30px 50px;
     color: cadetblue;
+    justify-content: center;
 }
 
 nav ol li hover {
